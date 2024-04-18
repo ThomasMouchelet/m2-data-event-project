@@ -17,7 +17,7 @@ TODO:
 - [ ] Create Event entity in database
 - [ ] Create Registration entity in database
 - [ ] Create route find all events
-- [ ] Create route delete events
+- [ ] Create route delete ONE events
 - [ ] Create route add event
 - [ ] Create route add registration
 

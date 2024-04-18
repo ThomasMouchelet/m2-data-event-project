@@ -30,6 +30,10 @@ You can write your code in the file front/script.js at the locations of the anno
 */
 ```
 
+> You need to install extenssion "Live server'
+
+When installed, click right to index.html > Open with live server
+
 TODO:
 - [ ] Call route delete events on click button delete
 - [ ] Call route add event on submit event form in modal

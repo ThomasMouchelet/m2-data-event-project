@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "title": "Summer Music Festival",
+        "description": "Join us for a day full of music, food, and fun under the sun!",
+        "event_date": "2024-06-15T14:00:00",
+        "address": "123 Festival Lane",
+        "city": "Springfield",
+        "postal_code": "98765",
+        "registrations": [
+            {
+                "id": 101,
+                "lastName": "Smith",
+                "firstName": "Alice",
+                "email": "alice@example.com"
+            },
+            {
+                "id": 102,
+                "lastName": "Jones",
+                "firstName": "Bob",
+                "email": "bob@example.com"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Tech Conference 2024",
+        "description": "A comprehensive conference covering the latest trends in technology.",
+        "event_date": "2024-09-21T09:00:00",
+        "address": "456 Innovation Blvd",
+        "city": "Techville",
+        "postal_code": "12345",
+        "registrations": [
+            {
+                "id": 201,
+                "lastName": "Brown",
+                "firstName": "Carol",
+                "email": "carol@example.com"
+            },
+            {
+                "id": 202,
+                "lastName": "Davis",
+                "firstName": "Dave",
+                "email": "dave@example.com"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Local Art Exhibition",
+        "description": "Explore the latest artworks from local artists in our community.",
+        "event_date": "2024-08-05T16:00:00",
+        "address": "789 Creative Ave",
+        "city": "Artstown",
+        "postal_code": "67890",
+        "registrations": [
+            {
+                "id": 301,
+                "lastName": "Evans",
+                "firstName": "Eve",
+                "email": "eve@example.com"
+            },
+            {
+                "id": 302,
+                "lastName": "Wilson",
+                "firstName": "Frank",
+                "email": "frank@example.com"
+            }
+        ]
+    }
+]

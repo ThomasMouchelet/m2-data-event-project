@@ -12,13 +12,15 @@
                 "id": 101,
                 "lastName": "Smith",
                 "firstName": "Alice",
-                "email": "alice@example.com"
+                "email": "alice@example.com",
+                "event_id": 1
             },
             {
                 "id": 102,
                 "lastName": "Jones",
                 "firstName": "Bob",
-                "email": "bob@example.com"
+                "email": "bob@example.com",
+                "event_id": 1
             }
         ]
     },
@@ -35,13 +37,15 @@
                 "id": 201,
                 "lastName": "Brown",
                 "firstName": "Carol",
-                "email": "carol@example.com"
+                "email": "carol@example.com",
+                "event_id": 2
             },
             {
                 "id": 202,
                 "lastName": "Davis",
                 "firstName": "Dave",
-                "email": "dave@example.com"
+                "email": "dave@example.com",
+                "event_id": 2
             }
         ]
     },
@@ -58,13 +62,15 @@
                 "id": 301,
                 "lastName": "Evans",
                 "firstName": "Eve",
-                "email": "eve@example.com"
+                "email": "eve@example.com",
+                "event_id": 3
             },
             {
                 "id": 302,
                 "lastName": "Wilson",
                 "firstName": "Frank",
-                "email": "frank@example.com"
+                "email": "frank@example.com",
+                "event_id": 3
             }
         ]
     }
